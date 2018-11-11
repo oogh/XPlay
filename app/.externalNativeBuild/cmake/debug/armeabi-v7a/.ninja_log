@@ -1,0 +1,25 @@
+# ninja log v5
+3	80	0	CMakeFiles/native-lib.dir/src/main/cpp/XLog.cpp.o	3d752720fef8a013
+3	377	0	CMakeFiles/native-lib.dir/src/main/cpp/XData.cpp.o	a86e384b24b1eda8
+1	1065	0	CMakeFiles/native-lib.dir/src/main/cpp/IDemux.cpp.o	cc68734683ee91cb
+0	1126	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	4de99e3f83d1c146
+1126	1162	0	CMakeFiles/native-lib.dir/src/main/cpp/XParameter.cpp.o	eb23c5eeb29aa038
+5	1182	0	CMakeFiles/native-lib.dir/src/main/cpp/XThread.cpp.o	e645b74a78f0a939
+80	1258	0	CMakeFiles/native-lib.dir/src/main/cpp/IObserver.cpp.o	eef4c4a1cd4f62a4
+2	1414	0	CMakeFiles/native-lib.dir/src/main/cpp/FFDemux.cpp.o	42f64d9bbb3ddca8
+377	1560	0	CMakeFiles/native-lib.dir/src/main/cpp/FFDecode.cpp.o	6f7a45bdbc60aa4
+1258	1825	0	CMakeFiles/native-lib.dir/src/main/cpp/XTexture.cpp.o	c3872697e7e3c7d7
+1162	1928	0	CMakeFiles/native-lib.dir/src/main/cpp/IVideoView.cpp.o	84dafd7182c881f0
+1414	1958	0	CMakeFiles/native-lib.dir/src/main/cpp/XEGL.cpp.o	74030989ac727c55
+1182	2017	0	CMakeFiles/native-lib.dir/src/main/cpp/GLVideoView.cpp.o	92c8e924d4f74a46
+1066	2095	0	CMakeFiles/native-lib.dir/src/main/cpp/IDecode.cpp.o	fc3c6ece134a8f9c
+1561	2168	0	CMakeFiles/native-lib.dir/src/main/cpp/XShader.cpp.o	b361e5474ffe9c83
+1928	2596	0	CMakeFiles/native-lib.dir/src/main/cpp/IResample.cpp.o	8d0d011cde76b05f
+1825	2622	0	CMakeFiles/native-lib.dir/src/main/cpp/FFResample.cpp.o	dbd2273392c02cdc
+2017	2843	0	CMakeFiles/native-lib.dir/src/main/cpp/IAudioPlay.cpp.o	c58ce05dcf7058c9
+2168	2859	0	CMakeFiles/native-lib.dir/src/main/cpp/IPlayerBuilder.cpp.o	ab58b8aef8d78ad5
+2095	2872	0	CMakeFiles/native-lib.dir/src/main/cpp/IPlayer.cpp.o	3c02fb244308466f
+1958	2901	0	CMakeFiles/native-lib.dir/src/main/cpp/SLAudioPlay.cpp.o	69c2e05e2f6b010b
+2622	2945	0	CMakeFiles/native-lib.dir/src/main/cpp/IPlayerPorxy.cpp.o	b94c261be47e634c
+2596	3035	0	CMakeFiles/native-lib.dir/src/main/cpp/FFPlayerBuilder.cpp.o	8490977b39fe7ad3
+3035	3180	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	3419d264f92a4886
